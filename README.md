@@ -2,7 +2,7 @@
 
 ### Ever heard the proverb "Every picture tells it's story" ? Well, now you've heard and there is something else that you can hear; the story of the image. For the technical aspect, this project takes an image as input an uses the image captioning model 'Blip' to caption it. This caption is passed to a LLM named 'Mixtral-8x7B' which generates a 30 word story. This story is then translated to the desired language and this story is converted to an audio file which can be played by the user. Click the link below to take a sneak peek.
 
-[grandma.streamlit.app](https://grandma.streamlit.app/)
+## [grandma.streamlit.app](https://grandma.streamlit.app/)
 
 
 ## Also, you can run this locally by following this steps:
